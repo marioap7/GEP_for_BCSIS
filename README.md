@@ -4,13 +4,21 @@ Generation Expansion Planning Toward the Decarbonization of the Baja California 
 The input data files for the PLEXOS Software are located in the “Input Data To PLEXOS” folder, where data from 2025 to 2039 are detailed:
 
    •	Build Cost.
+   
    •	Fuel-Price.
+   
    •	Rating Factor.
+   
    •	Load.
+   
    •	Load Participation Factor.
+   
    •	CSP Max Energy Day (50MW).
+   
    •	CSP Max Energy Day (75MW).
+   
    •	CSP Max Energy Day (100MW).
+   
 
 It is important to note that the data are imported as .csv files, as the processing of hourly, daily, monthly, and annual datasets is streamlined through the creation of Data Files within the PLEXOS interface.
 
