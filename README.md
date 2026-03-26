@@ -1,7 +1,18 @@
 # GEP_for_BCSIS
+
+March, 2026
+
 Generation Expansion Planning Toward the Decarbonization of the Baja California Sur Electrical System
 
-The input data files for the PLEXOS Software are located in the “Input Data To PLEXOS” folder, where data from 2025 to 2039 are detailed:
+Submission ID: 10343
+
+IEEE Latin America Transactions
+
+Authors: Antonino López Ríos, Gilberto López Ríos, Pablo Moreno Villalobos, and Mario R. Arrieta-Paternina
+
+We provide the dataset for implementing the Generation Expansion Planning (GEP) to achieve the decarbonization of the Baja California Sur Interconnected System (BCSIS). We optimally solve three scenarios and a reference case using CPLEX and Gurobi algorithms embedded in PLEXOS®. Results for all scenarios are summarized in the file named  "Comparisons.pdf"
+
+The input dataset files for the PLEXOS Software are located in the “Input Data To PLEXOS” folder, where data from 2025 to 2039 are detailed:
 
    •	Build Cost. 
    
@@ -21,9 +32,9 @@ The input data files for the PLEXOS Software are located in the “Input Data To
    
    
 
-It is important to note that the data are imported as .csv files, as the processing of hourly, daily, monthly, and annual datasets is streamlined through the creation of Data Files within the PLEXOS interface.
+It is important to note that the data are imported as .csv files, as the hourly, daily, monthly, and annual data processing is streamlined through the creation of Data Files within the PLEXOS interface.
 
-To ensure that the data are correctly recognized by the PLEXOS interface, follow the steps below:
+To ensure that the dataset is correctly recognized by the PLEXOS interface, follow the steps below:
 
 •  In the PLEXOS navigation panel, go to:
 
