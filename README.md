@@ -2,6 +2,7 @@
 Generation Expansion Planning Toward the Decarbonization of the Baja California Sur Electrical System
 
 The input data files for the PLEXOS Software are located in the “Input Data To PLEXOS” folder, where data from 2025 to 2039 are detailed:
+
    •	Build Cost.
    •	Fuel-Price.
    •	Rating Factor.
