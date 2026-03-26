@@ -55,3 +55,16 @@ To ensure that the dataset is correctly recognized by the PLEXOS interface, foll
               Filename: Fixed Charge.csv
               
 These steps allow PLEXOS to correctly locate and read the .csv files when the model is executed.
+
+
+
+The “Input Data To TSL” folder contains the files needed to calculate the hourly capacity factors (Rating Factor) for renewable power plants. These files include:
+
+   •  TSLData.csv
+   
+      Contains the installed capacity (MW) of each renewable unit and its geographic location.
+
+  •  hcfobs.csv
+  
+      Provides a 24×12 generation profile (24 hours × 12 months) with estimated production for Existing and Candidate units included in the optimization process
+
